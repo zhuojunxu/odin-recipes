@@ -1,6 +1,6 @@
 # odin-recipes
 ## This is a basic html project to show my favourite recipes.
-![Screenshot](odinreceipe_readme.png)
+![Screenshot](odinrecipe_readme.png)
 
 ## For Future Project, index.html will contain flexbox element for users to be able to directly click the image and learn the dish. 
 
